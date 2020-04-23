@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730603459625",
+    "firebase_url": "https://dach-203e7.firebaseio.com",
+    "project_id": "dach-203e7",
+    "storage_bucket": "dach-203e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730603459625:android:d4fd95c827cc191d3c3838",
+        "android_client_info": {
+          "package_name": "com.dachtech.dach.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730603459625-gm19v8tgu6i3l8qq3642v8oe803b4pqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22Fd40bgZd4RR5QovQWThug9-MdUeU6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730603459625-gm19v8tgu6i3l8qq3642v8oe803b4pqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
